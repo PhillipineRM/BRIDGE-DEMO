@@ -1,2 +1,3 @@
-# BRIDGE-DEMO
-BRIDGING THE GAP
+DEMO
+
+Some description
